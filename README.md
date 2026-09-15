@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/2235-add-two-integers) |
 | [3894-traffic-signal-color](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/3894-traffic-signal-color) |
 ## Enumeration
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -39,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0258-add-digits) |
 | [3894-traffic-signal-color](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
