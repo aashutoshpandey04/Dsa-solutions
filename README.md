@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0204-count-primes) |
+| [2235-add-two-integers](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/2235-add-two-integers) |
 ## Enumeration
 |  |
 | ------- |
