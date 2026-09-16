@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/2235-add-two-integers) |
 | [3894-traffic-signal-color](https://github.com/aashutoshpandey04/Dsa-solutions/tree/master/3894-traffic-signal-color) |
 ## Enumeration
